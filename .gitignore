@@ -1,0 +1,10 @@
+wisdm-dataset.zip
+wisdm-dataset/
+venv/
+.vscode/
+.DS_Store
+dask-worker-space/
+segmented_raw_data.parquet/
+.ipynb_checkpoints/
+processed_raw_data.parquet
+tsfresh_features.parquet
