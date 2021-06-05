@@ -8,3 +8,7 @@ segmented_raw_data.parquet/
 .ipynb_checkpoints/
 processed_raw_data.parquet
 tsfresh_features.parquet
+tsfresh_all_features.parquet
+tsfresh_relevant_features.parquet
+dse220-final-exam.ipynb
+Untitled.ipynb
